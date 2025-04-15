@@ -1,6 +1,5 @@
 nota=0
 soma=0
-
 while nota<10:
     valor=int(input("Digite a sua nota: "))
     soma+=valor
